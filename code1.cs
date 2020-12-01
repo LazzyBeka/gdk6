@@ -30,7 +30,7 @@ namespace zad3
                 }
             }
         } 
-//Perfect job
+//Perfect blowjob
         
     }
 }

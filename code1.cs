@@ -30,7 +30,6 @@ namespace zad3
                 }
             }
         } 
-//Perfect blowjob
         
     }
 }
